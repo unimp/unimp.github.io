@@ -1,2 +1,3 @@
 name: Unimp
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
